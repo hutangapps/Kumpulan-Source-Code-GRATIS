@@ -44,6 +44,6 @@ Untuk mendapatkan hadiah tee atau pohon Hacktoberfest, Anda harus mendaftar dan 
 ***
 <h2 align="center">
     <p>
-        <b>Terima Kasih</b>
+        <b>Terima Kasih ^-^</b>
     </p>
 </h2>
