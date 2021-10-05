@@ -44,6 +44,8 @@ Untuk mendapatkan hadiah tee atau pohon Hacktoberfest, Anda harus mendaftar dan 
 ***
 <h2 align="center">
     <p>
+        Kontribusi :
+- Nurdiana 
         <b>Terima Kasih ^-^</b>
     </p>
 </h2>
