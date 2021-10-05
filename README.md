@@ -47,3 +47,5 @@ Untuk mendapatkan hadiah tee atau pohon Hacktoberfest, Anda harus mendaftar dan 
         <b>Terima Kasih ^-^</b>
     </p>
 </h2>
+
+RTerima kasih atas supportnya, sangat bermanaaft!
