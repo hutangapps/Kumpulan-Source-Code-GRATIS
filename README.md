@@ -1,9 +1,9 @@
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2022 </h1>
 
 ***
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Tautan Ke HacktoberFest 2021
+        Tautan Ke HacktoberFest 2022
     </a>
 </h3>
 
